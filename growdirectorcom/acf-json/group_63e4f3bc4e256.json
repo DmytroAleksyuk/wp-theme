@@ -1,0 +1,135 @@
+{
+    "key": "group_63e4f3bc4e256",
+    "title": "Product single",
+    "fields": [
+        {
+            "key": "field_641043c045947",
+            "label": "Under upsell img",
+            "name": "under_upsell_img",
+            "aria-label": "",
+            "type": "image",
+            "instructions": "Optional",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": "",
+            "preview_size": "thumbnail"
+        },
+        {
+            "key": "field_63e4f3bc46ab9",
+            "label": "Under description img",
+            "name": "under_description_img",
+            "aria-label": "",
+            "type": "image",
+            "instructions": "Optional",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": "",
+            "preview_size": "thumbnail"
+        },
+        {
+            "key": "field_63e4f42046aba",
+            "label": "Enable banner ML",
+            "name": "enable_banner_ml",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "General [banner_ml] in Theme Settings.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 1,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_63e4f46465ea9",
+            "label": "Enable banner App",
+            "name": "enable_banner_app",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "General [banner_app] in Theme Settings.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 1,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_640f54fbaeaaa",
+            "label": "Enable banner Consultation",
+            "name": "enable_banner_consultation",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "General [banner_consultation] in Theme Settings.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 1,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "product"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1678787830
+}

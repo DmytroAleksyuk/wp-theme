@@ -1,0 +1,14 @@
+/*
+Theme Name: growdirectorcom
+Theme URI: NDA
+Author: D_a
+Description: growdirector com Theme
+Version: 2.0
+Text Domain: growdirector
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.woocommerce-result-count {
+    display: none;
+}

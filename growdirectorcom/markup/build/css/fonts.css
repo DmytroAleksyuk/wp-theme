@@ -1,0 +1,185 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon.eot?ba5otr");
+  src: url("../fonts/icomoon.eot?ba5otr#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?ba5otr") format("truetype"),
+    url("../fonts/icomoon.woff?ba5otr") format("woff"),
+    url("../fonts/icomoon.svg?ba5otr#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Vector:before {
+  content: "\e922";
+}
+.icon-whatsapp-2:before {
+  content: "\e91f";
+}
+.icon-telegram:before {
+  content: "\e920";
+}
+.icon-date:before {
+  content: "\e91c";
+}
+.icon-eye-viewers:before {
+  content: "\e91d";
+}
+.icon-eye-pass:before {
+  content: "\e916";
+}
+.icon-map:before {
+  content: "\e918";
+}
+.icon-plus:before {
+  content: "\e919";
+}
+.icon-serch-thin:before {
+  content: "\e91a";
+}
+.icon-plus-bold:before {
+  content: "\e91b";
+}
+.icon-arrow-thin-left:before {
+  content: "\e911";
+}
+.icon-arrow-thin-right:before {
+  content: "\e912";
+}
+.icon-arr-left-sm:before {
+  content: "\e900";
+}
+.icon-arr-right-sm:before {
+  content: "\e901";
+}
+.icon-instagram:before {
+  content: "\e902";
+}
+.icon-linkedin:before {
+  content: "\e903";
+}
+.icon-facebook:before {
+  content: "\e907";
+}
+.icon-youtube:before {
+  content: "\e908";
+}
+.icon-check:before {
+  content: "\e90a";
+}
+.icon-cart:before {
+  content: "\e90b";
+}
+.icon-login:before {
+  content: "\e90c";
+}
+.icon-whatsapp:before {
+  content: "\e90d";
+}
+.icon-mail:before {
+  content: "\e90e";
+}
+.icon-clock:before {
+  content: "\e90f";
+}
+.icon-arrow-right:before {
+  content: "\e905";
+}
+.icon-arrow-left:before {
+  content: "\e906";
+}
+.icon-search:before {
+  content: "\e909";
+}
+.icon-add_cart:before {
+  content: "\e91e";
+}
+.icon-shopping_cart:before {
+  content: "\e923";
+}
+.icon-list_bullets:before {
+  content: "\e921";
+}
+.icon-360-deg:before {
+  content: "\e917";
+}
+.icon-short_arrow_top:before {
+  content: "\e910";
+}
+.icon-short_arrow_right:before {
+  content: "\e913";
+}
+.icon-short_arrow_left:before {
+  content: "\e914";
+}
+.icon-short_arrow_bottom:before {
+  content: "\e915";
+}
+.icon-close:before {
+  content: "\e904";
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Light.eot");
+  src: url("../fonts/IBMPlexSans-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/IBMPlexSans-Light.woff2") format("woff2"),
+    url("../fonts/IBMPlexSans-Light.ttf") format("truetype"),
+    url("../fonts/IBMPlexSans-Light.svg#IBMPlexSans-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Regular.eot");
+  src: url("../fonts/IBMPlexSans-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/IBMPlexSans-Regular.woff2") format("woff2"),
+    url("../fonts/IBMPlexSans-Regular.ttf") format("truetype"),
+    url("../fonts/IBMPlexSans-Regular.svg#IBMPlexSans-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Medium.eot");
+  src: url("../fonts/IBMPlexSans-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/IBMPlexSans-Medium.woff2") format("woff2"),
+    url("../fonts/IBMPlexSans-Medium.ttf") format("truetype"),
+    url("../fonts/IBMPlexSans-Medium.svg#IBMPlexSans-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("../fonts/IBMPlexSans-Bold.eot");
+  src: url("../fonts/IBMPlexSans-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/IBMPlexSans-Bold.woff2") format("woff2"),
+    url("../fonts/IBMPlexSans-Bold.ttf") format("truetype"),
+    url("../fonts/IBMPlexSans-Bold.svg#IBMPlexSans-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
